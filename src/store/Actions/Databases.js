@@ -1,0 +1,1 @@
+export const getAll = () => ({ type: 'GET_DATABASES', payload: {databases: ['database2', 'database3']}})

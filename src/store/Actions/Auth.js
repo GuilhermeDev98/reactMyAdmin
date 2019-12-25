@@ -1,0 +1,1 @@
+export const login = (host, user, password, database) => ({ type: 'LOGIN', payload: {dataabses: ['database2', 'database3']}})
